@@ -32,7 +32,7 @@
                            <label for="photo" class="form-label">Picture</label>
                            <input type="file" class="form-control" id="photo" name="photo" >
                        </div>
-                       <button type="submit" name="enregistrer" value="enregistrer" class="btn btn-primary">Register</button>
+                       <input type="submit" name="enregistrer" value="enregistrer" class="btn btn-primary" />
                    </form>
                </div>
            </div>

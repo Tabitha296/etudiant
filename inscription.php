@@ -24,7 +24,10 @@ require_once "connexion.php";
                 die('impossible'.$ex->getMessage());
             }
            
-         }
+         } 
+     }  else{
+        echo("erreur");
+        var_dump($_POST);
      }
 
 ?>
